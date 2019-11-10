@@ -1,0 +1,4 @@
+#|
+$JSON
+{"authURL":["c.kodular.io"],"YaVersion":"212","Source":"Form","Properties":{"$Name":"Screen6","$Type":"Form","$Version":"41","AlignHorizontal":"3","AppId":"6638891324932096","AppName":"Andon","ReceiveSharedText":"none","Title":"Screen6","Uuid":"0","$Components":[{"$Name":"Bot\u00e3o1","$Type":"Button","$Version":"11","BackgroundColor":"&HFE31CF15","Height":"111","Width":"111","Shape":"3","Uuid":"-2043187615"},{"$Name":"Bot\u00e3o2","$Type":"Button","$Version":"11","BackgroundColor":"&HFEF9E23E","Height":"111","Width":"111","Shape":"3","Uuid":"-187356134"},{"$Name":"Bot\u00e3o3","$Type":"Button","$Version":"11","BackgroundColor":"&HFEFE0227","Height":"111","Width":"111","Shape":"3","Uuid":"-1557553768"},{"$Name":"Bot\u00e3o4","$Type":"Button","$Version":"11","BackgroundColor":"&H52AAA7A7","Height":"111","Width":"111","Image":"Nenhum","Shape":"3","Uuid":"-1609272039"}]}}
+|#

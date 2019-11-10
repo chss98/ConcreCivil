@@ -1,0 +1,13 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="component_event" id="yeQLF(K59Firii6epC4/" x="-630" y="-250">
+    <mutation component_type="BarcodeScanner" is_generic="false" instance_name="CódigoDeBarras1" event_name="AfterScan"></mutation>
+    <field name="COMPONENT_SELECTOR">CódigoDeBarras1</field>
+    <statement name="DO">
+      <block type="component_method" id="-pzim`LRZ9i~Ydyd]_TO">
+        <mutation component_type="BarcodeScanner" method_name="DoScan" is_generic="false" instance_name="CódigoDeBarras1"></mutation>
+        <field name="COMPONENT_SELECTOR">CódigoDeBarras1</field>
+      </block>
+    </statement>
+  </block>
+  <yacodeblocks ya-version="212" language-version="27"></yacodeblocks>
+</xml>
